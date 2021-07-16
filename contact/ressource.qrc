@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>assets/image/DSz8alfXkAE6sYW.jpeg</file>
+    <file>assets/image/image.jpeg</file>
+  </qresource>
+</RCC>
